@@ -1,0 +1,12 @@
+======Sets assembly speed of the sentry.======
+= Description =
+
+Sets the senty assembly speed for all marines, the default speed was 7 seconds, new default is 2.5 seconds.
+
+Controls the assembly time from min. 0.2 to max. 7.0 seconds.
+
+{|
+|| [[asw_version.wiki|Server Version]] Added || Default || [[CvarFlags.wiki | CvarFlags]] || [ParamType Parameter Type] 
+|-
+|| 2.0 || `2.5` || [[FCVAR_CHEAT.wiki|FCVAR_CHEAT]] || [Float] 
+|}
