@@ -41,7 +41,7 @@ Make sure downloading 100% completion with message "Success! App '563560' fully 
   * If any assertion failed or error found, start the following steps:
   *   1.close steamcmd, delete AlienSwarmRDServer folder and steamcmd folder,
   *   2.create AlienSwarmRDServer folder and unzip steamcmd.zip again, 
-  *   3.restart from step "Right click on the folder and select 'TortoiseGit Checkout'".
+  *   3.restart from step "Right click on the folder and select 'TortoiseGit Clone'".
 
 * Type 'quit' to exit Steamcmd.
 
