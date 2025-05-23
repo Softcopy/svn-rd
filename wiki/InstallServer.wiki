@@ -14,7 +14,7 @@ After installing TortoiseGit and rebooting your computer, create a folder (let's
 
 Right click on the AlienSwarmRDServer folder and select "TortoiseGit > Clone". 
 
-<a href=https://github.com/ch1ckenscoop/svn-rd/blob/master/wiki/InstallServer.wiki ><img src=git_checkout.PNG /></a>
+<a href=https://github.com/ch1ckenscoop/svn-rd/blob/master/wiki/InstallServer.wiki ><img src=git_clone.png /></a>
 
 Set the URL to [[InstallServer.wiki|http://github.com/Ch1ckenscoop/server.git]] and click OK.
 
